@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Cristian David Pores Cañas
+# Cristian David Pores Cañas
 
 💻 **Consultor Técnico | Desarrollador NetSuite | Full Stack Developer**
 
