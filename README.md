@@ -37,8 +37,7 @@ Me gusta optimizar sistemas, detectar errores potenciales y crear herramientas q
 ---
 
 ## 📫 Cómo contactarme
-- ✉️ **Email:** cpores@netsoft.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/cdpores) *(añade tu enlace real)*  
+- ✉️ **Email:** cristianpores123jm@gmail.com  
 - 🧑‍💻 [GitHub](https://github.com/cdpores)
 
 ---
