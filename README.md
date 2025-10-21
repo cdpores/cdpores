@@ -19,7 +19,6 @@ Me gusta optimizar sistemas, detectar errores potenciales y crear herramientas q
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python)
-![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6)
 ![Git](https://img.shields.io/badge/Git-F05032)
